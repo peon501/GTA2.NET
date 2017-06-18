@@ -1,4 +1,4 @@
 # GTA2.NET
 GTA2.NET MONOGAME 3.6 PORT
 
-Ported from https://github.com/joaocc/gta2net-git
+Ported from code.google.com/p/gta2net
